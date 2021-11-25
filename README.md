@@ -22,16 +22,22 @@
 * (50%) Realice una simulación del sistema de comunicaciones utilizando una modulación **8-PSK**. Deben mostrar las imágenes enviadas y recuperadas y las formas de onda.
 
 Imagen recuperada con un SNR = 20:
+
 ![image](https://user-images.githubusercontent.com/93485961/143368429-e64b435f-0132-40cd-9cf8-46cbe9aa0688.png)
 
 Imagen recuperada con un SNR = 5:
 
+![image](https://user-images.githubusercontent.com/93485961/143371429-1480cd02-9ab3-4e95-bea3-d9fdf4c7031f.png)
+
 Formas de onda:
+
 ![image](https://user-images.githubusercontent.com/93485961/143368524-778ea68f-2467-4e0e-8031-c5df9a17ce8e.png)
 
 ### 4.2. - Estacionaridad y ergodicidad
 
 * (30%) Realice pruebas de estacionaridad y ergodicidad a la señal modulada `senal_Tx` y obtenga conclusiones sobre estas.
+
+![image](https://user-images.githubusercontent.com/93485961/143371688-a04118b8-561e-44ae-bf88-0ef8b022348f.png)
 
 ### 4.3. - Densidad espectral de potencia
 
