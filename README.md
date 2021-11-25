@@ -39,6 +39,8 @@ Formas de onda:
 
 ![image](https://user-images.githubusercontent.com/93485961/143371688-a04118b8-561e-44ae-bf88-0ef8b022348f.png)
 
+En la gráfica anterior se muestra que el promedio de realizaciones y el valor teórico presentan el mismo valor, por lo que se puede concluir que en hay ergocidad en la señal modulada (senal_Tx).
+
 ### 4.3. - Densidad espectral de potencia
 
 * (20%) Determine y grafique la densidad espectral de potencia para la señal modulada `senal_Tx`.
