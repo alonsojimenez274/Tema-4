@@ -12,7 +12,7 @@
 * Carné 2: **B94125**
 * Estudiante 3: **Daniel Pérez Conejo**
 * Carné 3: **B85963**
-* Grupo: **1 y 2**
+* Grupo: **4.20**
 
 ---
 # `P4` - *Modulación digital IQ*
