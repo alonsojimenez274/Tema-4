@@ -39,7 +39,7 @@ Formas de onda:
 
 ![image](https://user-images.githubusercontent.com/93485961/143371688-a04118b8-561e-44ae-bf88-0ef8b022348f.png)
 
-En la gráfica anterior se muestra que el promedio de realizaciones y el valor teórico presentan el mismo valor, por lo que se puede concluir que hay ergocidad en la señal modulada (senal_Tx). Además, se puede observar que la señal es estable a lo largo del tiempo, por lo que también cumple con la prueba de estacionaridad.
+En la gráfica anterior se muestra que el promedio de muestras y el valor teórico presentan el mismo valor, por lo que se puede concluir que hay ergocidad en la señal modulada (senal_Tx). Además, se puede observar que la señal es estable a lo largo del tiempo, por lo que también cumple con la prueba de estacionaridad.
 
 ### 4.3. - Densidad espectral de potencia
 
